@@ -1,1 +1,7 @@
-
+div.Header{
+  background-color:red;
+  height:50px;
+  text-align:center;
+  font-size:40px;
+  color:orange;
+}
